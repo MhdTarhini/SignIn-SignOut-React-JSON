@@ -209,7 +209,7 @@
   ],
   "Users": [
     {
-      "UserName": "Mohamed",
+      "UserName": "mohamed",
       "Email": "email",
       "Password": "password",
       "category": [
@@ -226,6 +226,25 @@
         "jewelry"
       ],
       "id": 2
+    },
+    {
+      "UserName": "hassan",
+      "Email": "sss@hotmail.com",
+      "Password": "hassanhassan",
+      "category": [
+        "jewelry",
+        "men's clothing"
+      ],
+      "id": 3
+    },
+    {
+      "UserName": "rr",
+      "Email": "rr@rr.com",
+      "Password": "12345678",
+      "category": [
+        "electronics"
+      ],
+      "id": 4
     }
   ]
 }
